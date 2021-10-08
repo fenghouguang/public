@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/xxjwxc/public/mydoc/mymarkdown"
-	"github.com/xxjwxc/public/mydoc/myswagger"
+	"github.com/fenghouguang/public/mydoc/mymarkdown"
+	"github.com/fenghouguang/public/mydoc/myswagger"
 )
 
 func (m *model) analysisStructInfo(info *StructInfo) {

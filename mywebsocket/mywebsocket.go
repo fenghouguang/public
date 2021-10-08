@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/ant0ine/go-json-rest/rest"
-	"github.com/xxjwxc/public/mycache"
-	"github.com/xxjwxc/public/mylog"
+	"github.com/fenghouguang/public/mycache"
+	"github.com/fenghouguang/public/mylog"
 
 	"golang.org/x/net/websocket"
 )

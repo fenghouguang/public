@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/xxjwxc/public/myhttp"
-	"github.com/xxjwxc/public/tools"
+	"github.com/fenghouguang/public/myhttp"
+	"github.com/fenghouguang/public/tools"
 )
 
 const (

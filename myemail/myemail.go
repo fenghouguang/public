@@ -4,9 +4,9 @@ import (
 	"net/smtp"
 	"strings"
 
-	"github.com/xxjwxc/public/mylog"
+	"github.com/fenghouguang/public/mylog"
 
-	"github.com/xxjwxc/public/message"
+	"github.com/fenghouguang/public/message"
 )
 
 // myEmail ...

@@ -7,8 +7,8 @@ import (
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/iterator"
 	"github.com/syndtr/goleveldb/leveldb/util"
-	"github.com/xxjwxc/public/mylog"
-	"github.com/xxjwxc/public/tools"
+	"github.com/fenghouguang/public/mylog"
+	"github.com/fenghouguang/public/tools"
 )
 
 var lock sync.Mutex

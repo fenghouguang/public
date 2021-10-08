@@ -1,10 +1,10 @@
 package mysqldbv1
 
 import (
-	"github.com/xxjwxc/public/dev"
-	"github.com/xxjwxc/public/errors"
+	"github.com/fenghouguang/public/dev"
+	"github.com/fenghouguang/public/errors"
 
-	"github.com/xxjwxc/public/mylog"
+	"github.com/fenghouguang/public/mylog"
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jinzhu/gorm"

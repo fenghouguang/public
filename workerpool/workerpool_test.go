@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/xxjwxc/gowp/workpool"
-	"github.com/xxjwxc/public/errors"
+	"github.com/fenghouguang/public/errors"
 )
 
 //template

@@ -3,7 +3,7 @@ package myswagger
 import (
 	"testing"
 
-	"github.com/xxjwxc/public/tools"
+	"github.com/fenghouguang/public/tools"
 )
 
 func TestDomain(t *testing.T) {

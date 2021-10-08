@@ -6,7 +6,7 @@ package fractional
 import (
 	"fmt"
 
-	"github.com/xxjwxc/public/mymath"
+	"github.com/fenghouguang/public/mymath"
 )
 
 //FAL 分数

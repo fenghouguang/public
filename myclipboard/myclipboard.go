@@ -2,7 +2,7 @@ package myclipboard
 
 import (
 	"github.com/atotto/clipboard"
-	"github.com/xxjwxc/public/mylog"
+	"github.com/fenghouguang/public/mylog"
 )
 
 // Get 读取剪切板中的内容到字符串

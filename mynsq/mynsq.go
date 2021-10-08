@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/nsqio/go-nsq"
-	"github.com/xxjwxc/public/mylog"
+	"github.com/fenghouguang/public/mylog"
 )
 
 var producer *nsq.Producer = nil

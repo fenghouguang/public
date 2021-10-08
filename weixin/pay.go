@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/xxjwxc/public/message"
-	"github.com/xxjwxc/public/mylog"
-	"github.com/xxjwxc/public/tools"
+	"github.com/fenghouguang/public/message"
+	"github.com/fenghouguang/public/mylog"
+	"github.com/fenghouguang/public/tools"
 
 	wxpay "gopkg.in/go-with/wxpay.v1"
 )

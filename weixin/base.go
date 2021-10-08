@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/bitly/go-simplejson"
-	"github.com/xxjwxc/public/mycache"
-	"github.com/xxjwxc/public/myhttp"
-	"github.com/xxjwxc/public/mylog"
+	"github.com/fenghouguang/public/mycache"
+	"github.com/fenghouguang/public/myhttp"
+	"github.com/fenghouguang/public/mylog"
 )
 
 const (

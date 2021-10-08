@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/xxjwxc/public/message"
-	"github.com/xxjwxc/public/tools"
+	"github.com/fenghouguang/public/message"
+	"github.com/fenghouguang/public/tools"
 )
 
 func Test_sing(t *testing.T) {

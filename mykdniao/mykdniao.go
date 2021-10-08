@@ -7,10 +7,10 @@ import (
 	"encoding/json"
 	"net/url"
 
-	"github.com/xxjwxc/public/mylog"
+	"github.com/fenghouguang/public/mylog"
 
-	"github.com/xxjwxc/public/myhttp"
-	"github.com/xxjwxc/public/tools"
+	"github.com/fenghouguang/public/myhttp"
+	"github.com/fenghouguang/public/tools"
 )
 
 /*

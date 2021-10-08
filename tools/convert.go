@@ -11,9 +11,9 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/xxjwxc/public/errors"
+	"github.com/fenghouguang/public/errors"
 
-	"github.com/xxjwxc/public/mylog"
+	"github.com/fenghouguang/public/mylog"
 )
 
 // RawBytes ...

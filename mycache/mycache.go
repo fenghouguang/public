@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/muesli/cache2go"
-	"github.com/xxjwxc/public/serializing"
+	"github.com/fenghouguang/public/serializing"
 )
 
 // CacheIFS 缓存操作接口
