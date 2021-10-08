@@ -1,4 +1,4 @@
-module github.com/xxjwxc/public
+module github.com/fenghouguang/public
 
 go 1.14
 
